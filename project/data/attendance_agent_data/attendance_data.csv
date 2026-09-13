@@ -1,0 +1,11 @@
+Unique ID,Student Name,Course,Total Classes,Classes Attended,Attendance Percentage,Status
+STU0128,Zain Hassan,Data Structures,60,52,86.7,OK
+STU0045,Ayesha Khan,Software Engineering,60,58,96.7,OK
+STU0201,Bilal Ahmed,Operating Systems,60,38,63.3,Short Attendance
+STU0077,Fatima Malik,Machine Learning,60,57,95.0,OK
+STU0090,Sara Iqbal,Database Systems,60,50,83.3,OK
+STU0155,Usman Tariq,Computer Networks,60,42,70.0,Warning
+STU0062,Mahnoor Aslam,Artificial Intelligence,60,55,91.7,OK
+STU0184,Ali Raza,Discrete Mathematics,60,36,60.0,Short Attendance
+STU0310,Hamza Sheikh,Software Engineering,60,30,50.0,Short Attendance
+STU0099,Iqra Yousaf,Programming Fundamentals,60,48,80.0,OK

@@ -1,0 +1,11 @@
+Unique ID,Student Name,Father Name,Program,Admission Date,Eligibility Status,Enrollment Status
+STU0128,Zain Hassan,Rauf,BS Computer Science,2021-09-01,Eligible,Enrolled
+STU0045,Ayesha Khan,Tariq Khan,BS Software Engineering,2021-09-01,Eligible,Enrolled
+STU0201,Bilal Ahmed,Nasir Ahmed,BS Computer Science,2021-09-01,Eligible,Enrolled
+STU0077,Fatima Malik,Imran Malik,BS Artificial Intelligence,2022-09-01,Eligible,Enrolled
+STU0310,Hamza Sheikh,Waseem Sheikh,BS Software Engineering,2021-09-01,Not Eligible,Withdrawn
+STU0090,Sara Iqbal,Naveed Iqbal,BS Computer Science,2022-09-01,Eligible,Enrolled
+STU0155,Usman Tariq,Shahid Tariq,BS Data Science,2021-09-01,Eligible,Enrolled
+STU0062,Mahnoor Aslam,Aslam Raza,BS Artificial Intelligence,2022-09-01,Eligible,Enrolled
+STU0184,Ali Raza,Ghulam Raza,BS Computer Science,2021-09-01,Eligible,Enrolled
+STU0099,Iqra Yousaf,Yousaf Ali,BS Software Engineering,2022-09-01,Pending,Provisional

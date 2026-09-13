@@ -1,0 +1,10 @@
+Unique ID,Student Name,Semester,Fee Amount,Amount Paid,Due Amount,Challan Status
+STU0128,Zain Hassan,8th Semester,85000,85000,0,Paid
+STU0045,Ayesha Khan,8th Semester,90000,90000,0,Paid
+STU0201,Bilal Ahmed,6th Semester,80000,50000,30000,Overdue
+STU0077,Fatima Malik,4th Semester,88000,88000,0,Paid
+STU0090,Sara Iqbal,6th Semester,82000,82000,0,Paid
+STU0155,Usman Tariq,8th Semester,85000,60000,25000,Overdue
+STU0062,Mahnoor Aslam,4th Semester,90000,90000,0,Paid
+STU0184,Ali Raza,8th Semester,85000,40000,45000,Overdue
+STU0099,Iqra Yousaf,2nd Semester,75000,75000,0,Paid

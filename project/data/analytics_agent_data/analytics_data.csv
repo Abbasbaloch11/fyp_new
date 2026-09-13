@@ -1,0 +1,7 @@
+Unique ID,Student Name,Risk Level,CGPA Trend,Attendance Trend,Prediction Note
+STU0128,Zain Hassan,Medium,Improving,Stable,CGPA improving steadily each semester.
+STU0201,Bilal Ahmed,High,Declining,Declining,Low attendance and dropping CGPA - at risk of failing.
+STU0077,Fatima Malik,Low,Improving,Stable,Consistently strong performance.
+STU0155,Usman Tariq,Medium,Stable,Declining,Attendance risk may affect next semester result.
+STU0184,Ali Raza,High,Declining,Declining,Multiple short-attendance warnings and low CGPA.
+STU0310,Hamza Sheikh,High,Not Applicable,Critical,Withdrawn due to low attendance and eligibility issues.
